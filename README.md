@@ -1,6 +1,6 @@
 <H1>PLDN Tooling</H1>
 
-This repository gives an overview of the linked data tooling that is available in our <strong>PLDN Lab Environment</strong> and in our <strong>PLDN Website</strong>:
+This repository gives an overview of the linked data tooling that is available in our <strong>PLDN Lab Environment</strong> and for our <strong>PLDN Website</strong>:
 
 - VocBench
 - LD Wizard
