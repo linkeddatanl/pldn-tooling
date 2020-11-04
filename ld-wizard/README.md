@@ -1,6 +1,6 @@
 <H1>LD Wizard</H1>
 
-The LD Wizard is a new linked data tool that can be used to create linked data from tabular source data in csv-format during e.g. hackathons. Several variants of this tool will be available: The generic Hello World variant, a Cultural Heritage variant and a Cadastre variant. For more detailled information on the LD Wizard, check:
+The LD Wizard is a new linked data tool that can be used to create more easily linked data from tabular source data in csv-format during e.g. hackathons. Several variants of this tool will be available: The generic Hello World variant, a Cultural Heritage variant and a Cadastre variant. For more detailled information on the LD Wizard, check:
 
 - [LD Wizard pages on Github](https://github.com/netwerk-digitaal-erfgoed/LDWizard)
 
