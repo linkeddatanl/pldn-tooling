@@ -5,4 +5,4 @@ The LD Wizard is a new linked data tool, developed by [Triply](https://triply.cc
 - [LD Wizard pages on Github](https://github.com/netwerk-digitaal-erfgoed/LDWizard)
 - [LD Wizard video on YouTube](https://youtu.be/VO61pqKWw7A)
 
-We are looking at a possible date early 2021 to organize a first LD Wizard Workshop online, where the participants get a short tutorial on how the LD Wizard works and where they can experiment with the LD Wizard with their own csv-files. We will publish the date and the details of this workshop on the short term and also via our regular PLDN communication channels (PLDN Website, LinkedIn Group, Twitter Account and in one of our future PLDN Newsletters, etc.). 
+On February 4th, a Lighweight Linked Data Publishing session is scheduled, where two Linked Data Publishing Best Practices will be presented, one for smaller datasets with the LD Wizard and one for large datasets with the Kadaster Data Science toolset. More information for this session and a link to the registration form can be found on the event page for this session: https://www.pldn.nl/wiki/Lichtgewicht_Linked_Data_Publiceren_%E2%80%93_4_februari_2021.
