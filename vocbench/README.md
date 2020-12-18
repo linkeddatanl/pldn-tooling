@@ -1,4 +1,4 @@
-<H1>PLDN VocBench environment</H1>
+<H2>PLDN Lab environment - VocBench</H2>
 
 PLDN has its own PLDN VocBench environment available since the end of September 2020, that PLDN Community Members can use <em>free of charge</em> to develop their own small vocabularies, like taxonomies, thesauri and ontologies:
 
