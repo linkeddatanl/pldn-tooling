@@ -1,6 +1,6 @@
 # PLDN Lab environment – Semantic MediaWiki
 
-The PLDN wiki/website makes use of Semantic MediaWiki that PLDN that PLDN Community Members can use to share content around PLDN-activities:
+The PLDN wiki/website makes use of Semantic MediaWiki that PLDN that PLDN Community Members can use to share content around PLDN-activities and around interesting new linked data developments:
 
 -	[PLDN Wiki/Website](https://www.pldn.nl)
 
